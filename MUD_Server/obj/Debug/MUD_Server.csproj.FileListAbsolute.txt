@@ -1,0 +1,12 @@
+D:\Projects\MUD_Network\MUD_Server\MUD_Server\bin\Debug\MUD_Server.exe.config
+D:\Projects\MUD_Network\MUD_Server\MUD_Server\bin\Debug\MUD_Server.exe
+D:\Projects\MUD_Network\MUD_Server\MUD_Server\bin\Debug\MUD_Server.pdb
+D:\Projects\MUD_Network\MUD_Server\MUD_Server\obj\Debug\MUD_Server.csprojAssemblyReference.cache
+D:\Projects\MUD_Network\MUD_Server\MUD_Server\obj\Debug\MUD_Server.exe
+D:\Projects\MUD_Network\MUD_Server\MUD_Server\obj\Debug\MUD_Server.pdb
+D:\Projects\MUD_Network\MUD_Server\bin\Debug\MUD_Server.exe.config
+D:\Projects\MUD_Network\MUD_Server\bin\Debug\MUD_Server.exe
+D:\Projects\MUD_Network\MUD_Server\bin\Debug\MUD_Server.pdb
+D:\Projects\MUD_Network\MUD_Server\obj\Debug\MUD_Server.csprojAssemblyReference.cache
+D:\Projects\MUD_Network\MUD_Server\obj\Debug\MUD_Server.exe
+D:\Projects\MUD_Network\MUD_Server\obj\Debug\MUD_Server.pdb

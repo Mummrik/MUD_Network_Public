@@ -1,0 +1,9 @@
+D:\Projects\MUD_Network\MUD_Server\bin\x64\Release\MUD_Server.exe.config
+D:\Projects\MUD_Network\MUD_Server\bin\x64\Release\MUD_Server.exe
+D:\Projects\MUD_Network\MUD_Server\bin\x64\Release\MUD_Server.pdb
+D:\Projects\MUD_Network\MUD_Server\bin\x64\Release\System.Numerics.Vectors.dll
+D:\Projects\MUD_Network\MUD_Server\bin\x64\Release\System.Numerics.Vectors.xml
+D:\Projects\MUD_Network\MUD_Server\obj\x64\Release\MUD_Server.csprojAssemblyReference.cache
+D:\Projects\MUD_Network\MUD_Server\obj\x64\Release\MUD_Server.csproj.CopyComplete
+D:\Projects\MUD_Network\MUD_Server\obj\x64\Release\MUD_Server.exe
+D:\Projects\MUD_Network\MUD_Server\obj\x64\Release\MUD_Server.pdb
