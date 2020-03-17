@@ -6,4 +6,4 @@ You cannot move below 0 on X and Z axis, anything above is allowed.
 
 Feel free to playaround and learn building a custom network solution for Unity
 
-Network base is built upon tutorials from kevin kaymak's old tutorial series from 2017
+Network base is built upon tutorials from Kevin Kaymak's old tutorial series from 2017
